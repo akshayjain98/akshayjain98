@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 - Dedicated to spreading love 🤘
 - Software developer, excel at **problem-solving**, and **implement effective IT strategies** at the local and global levels.
 - Specialized in **Python, Git, JavaScript, HTML5, Bootstrap 4, CSS 3** and can also work in **Keyclock, Docker**.
+
+## Profile Visits
+![Thanks for visiting my profile](https://profile-counter.glitch.me/{iam-akshay}/count.svg)
